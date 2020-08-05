@@ -1,0 +1,5 @@
+str = input("Enter the string")
+print("Capital string for string {0} is {1} ",str,str.upper())
+print("First letter capital string for string {0} is {1} ",str,str.capitalize())
+print("smaller letter string for string {0} is {1} ",str,str.lower())
+print("isTitle : {0}",str.istitle())
